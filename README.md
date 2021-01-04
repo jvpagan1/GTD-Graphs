@@ -1,4 +1,4 @@
-## The Effect of COVID-19 on Regions at War or with High Levels of Social Unrest (R)
+## The Effect of COVID-19 on Regions at War or with High Levels of Social Unrest (R-Language)
 
 This repository shows various [graphs](https://jvpagan1.github.io/R-Graphs/) in R comparing (i) global terrorism by year for the world vs. Iraq (Graph 1), (ii) global terrorism attacks by country since 1970 for the 10 top countires (Grpahs 2-4), (iii) a regression analysis of terrorist attack vs. COVID-19 cases and deaths (Graph 5), (iv) terrorist attacks vs. COVID-19 deaths per capita by country (Graph 6), and (v) terrorist attacks vs COVID-19 deaths per captia (Graphs 7-9).  The data was sourced from the Global Terrorism Database and the European Centre for Disease Prevention and Control COVID-19 Database.
 
