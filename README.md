@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## The Effect of COVID-19 on Regions at War or with High Levels of Social Unrest (R)
 
-You can use the [editor on GitHub](https://github.com/jvpagan1/GTD-Graphs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository shows various [graphs](https://jvpagan1.github.io/R-Graphs/) in R comparing (i) global terrorism by year for the world vs. Iraq (Graph 1), (ii) global terrorism attacks by country since 1970 for the 10 top countires (Grpahs 2-4), (iii) a regression analysis of terrorist attack vs. COVID-19 cases and deaths (Graph 5), (iv) terrorist attacks vs. COVID-19 deaths per capita by country (Graph 6), and (v) terrorist attacks vs COVID-19 deaths per captia (Graphs 7-9).  The data was sourced from the Global Terrorism Database and the European Centre for Disease Prevention and Control COVID-19 Database.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Preliminary Findings
 
-### Markdown
+As seen in Graph 5, no direct correlation was found between terrorist attacks and COVID-19.  However, countries at war or with high levels of social unrest are clearly outlyers.  See Graph 9.  Yemen exhibits an extemely high COVID-19 mortality, possibly related to poor living and sanitary conditions resulting from its 6 year civil war.  Iraq and Afghanistan exhibit an extremely high number of terrorist attacks, possibly related to the American occupation of these countries over the last 20 years. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Additional research is needed to validate and elaborate on these findings.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jvpagan1/GTD-Graphs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
